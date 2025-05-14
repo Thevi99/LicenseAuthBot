@@ -1,0 +1,17 @@
+{
+  "keys": {
+    "ABC123": {
+      "used": false,
+      "reward": "Premium Script"
+    },
+    "XYZ789": {
+      "used": false,
+      "reward": "Basic Script"
+    }
+  },
+  "hwid": {
+    "500311877323194398": "HWID-i1viobjqi7i"
+  },
+  "leaderboard": {},
+  "monthlyClaims": {}
+}
